@@ -1,8 +1,8 @@
-#API-
+# API-
 
 ## /register
 
-##/check-eligibility
+## /check-eligibility
 
 
 
